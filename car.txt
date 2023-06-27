@@ -1,4 +1,4 @@
-Dmitry, [6/27/2023 6:24 PM]
+
 #include <WiFi.h>
 
 const char* ssid     = "CAR_WIFI";
