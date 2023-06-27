@@ -177,7 +177,6 @@ void loop() {
                 else if(c == 'D')
                   motor = 4;
 
-Dmitry, [6/27/2023 6:24 PM]
 /*Serial.print("Motor: ");
                 Serial.print(motor);
                 Serial.print(" pwr: ");
